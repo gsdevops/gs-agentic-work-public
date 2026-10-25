@@ -18,6 +18,7 @@ the next release overwrites them.
 1. Download `gs-devops-X.Y.Z.zip` and `gs-devops-X.Y.Z.zip.sha256` from the latest release.
 2. Check the archive: `shasum -a 256 -c gs-devops-X.Y.Z.zip.sha256` (Linux: `sha256sum -c`).
 3. Extract it, read its `README.md`, then run `python3 install.py --dry-run` and `python3 install.py`.
+   The installer asks before adding the `gsclaude` launcher shortcut to your shell startup file.
 
 ## Upgrade
 
