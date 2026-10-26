@@ -1,8 +1,8 @@
-# gs-devops public releases
+# gs-devops agentic toolset public releases
 
-Published packages of **gs-devops**, Galil Software's DevOps agents and skills for Claude Code.
-The source repository is private. This repository holds only what engineers need to install and
-upgrade the package:
+Published packages of **gs-devops agentic toolset**, Galil Software's DevOps agents and skills for
+Claude Code. The source repository is private. This repository holds only what engineers need to
+install and upgrade the package:
 
 - **Releases**: one per version (`vX.Y.Z`), each with `gs-devops-X.Y.Z.zip` and its `.sha256`.
   The ZIP contains the agents, skills, installer, package README and release notes. It does not
