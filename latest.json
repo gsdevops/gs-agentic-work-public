@@ -1,9 +1,9 @@
 {
   "authentication_required_for_download": false,
   "package": "gs-devops",
-  "published_at": "2026-10-25T18:23:25Z",
-  "release_url": "https://github.com/gsdevops/gs-agentic-work-public/releases/tag/v0.7.0",
+  "published_at": "2026-10-26T16:05:43Z",
+  "release_url": "https://github.com/gsdevops/gs-agentic-work-public/releases/tag/v0.10.0",
   "schema_version": 1,
-  "sha256": "13957ba6ac3f770e95c097b6dc8c11e217f6fd7dc81e3f44fce395f2fd9c8922",
-  "version": "0.7.0"
+  "sha256": "8f8f106f52f2b8ada4a7d1ce4bb5ba789e4e671de1737d6072d71109fdc704e7",
+  "version": "0.10.0"
 }
